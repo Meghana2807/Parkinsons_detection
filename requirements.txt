@@ -8,3 +8,4 @@ pandas
 opencv-python-headless
 pillow
 scipy
+grad-cam
