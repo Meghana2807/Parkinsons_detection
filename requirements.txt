@@ -5,6 +5,6 @@ librosa
 matplotlib
 numpy
 pandas
-opencv-python
+opencv-python-headless
 pillow
 scipy
